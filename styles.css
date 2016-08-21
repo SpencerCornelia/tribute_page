@@ -1,0 +1,20 @@
+.body-container {
+	width: 95%;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.steve-image-container {
+	width: 100%;
+}
+
+.steve-image-container img {
+	width: 70%;
+	margin-left: 170px;
+}
+
+.timeline {
+	margin-top: 50px;
+	margin-left: 25%;
+}
