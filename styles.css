@@ -5,16 +5,13 @@
 	margin-right: auto;
 }
 
-.steve-image-container {
-	width: 100%;
-}
-
-.steve-image-container img {
+img {
 	width: 70%;
-	margin-left: 170px;
+	margin-left: 50px;
 }
 
 .timeline {
 	margin-top: 50px;
-	margin-left: 25%;
+	margin-left: 15%;
+	margin-right: 10%;
 }
