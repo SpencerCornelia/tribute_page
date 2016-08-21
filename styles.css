@@ -19,8 +19,11 @@ img {
 @media (min-width: 992px) {
 	img {
 		width: 107%;
-
 	}
+	.timeline {
+		margin-left: 19%;
+		margin-right: -9%;
+	}	
 }
 
 @media (max-width: 991px) {
